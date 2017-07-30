@@ -1,0 +1,23 @@
+{
+  "name": "mmc",
+  "version": "1.0.0",
+  "description": "HW #11",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmchast88/Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmchast88/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/mmchast88/Flashcard-Generator#readme",
+  "dependencies": {
+    "flashcard": "0.0.2",
+    "inquirer": "^3.2.1"
+  }
+}
